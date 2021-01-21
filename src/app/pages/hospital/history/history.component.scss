@@ -1,0 +1,45 @@
+//We gonna make a margin, background and some padding
+.content-box{
+  margin: 20px 120px 0px 120px;
+  background: #fff;
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
+  margin-bottom: 5rem;
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.5);
+}
+
+//Now we gonna put the colour to the second box
+.content-purple-box{
+  background: linear-gradient(to right, #7D2181 ,#7d2199, purple);
+  color: #fff;
+}
+
+//The styles of the title
+.title-box{
+  font-style: italic;
+  font-size: 25px;
+  margin: 0px 0px 0px 20px;
+  padding-top: 15px;
+}
+
+//And of the text
+.text-box{
+  font-style: oblique;
+  font-size: 20px;
+  margin: 0px 30% 0px 20px;
+  padding: 10px 0px 20px 0px;
+}
+
+//Now the style of the other box title
+.text-title{
+  color: black;
+  font-size: 1.2rem;
+  font-style: oblique;
+  margin: 20px 0px 20px 0px;
+}
+
+//And their text
+.text-content{
+  margin: 20px 20px 0px 20px;
+  padding-top: 10px;
+}
